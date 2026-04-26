@@ -1,0 +1,3 @@
+# Load the dataset
+df = pd.read_csv("results.csv")
+df.head()
