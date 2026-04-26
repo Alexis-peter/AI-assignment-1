@@ -4,7 +4,7 @@
 Comprehensive analysis of international football matches from 1872 to 2024 using Python and pandas.
 
 ## 📊 Key Findings
-- **Total Matches**: [Your answer]
+- **Total Matches**: 
 - **Home Advantage**: Yes - Home teams win [X]% more matches
 - **Top Team**: [Team name] with [X] wins
 - **Average Goals**: [X] per match
